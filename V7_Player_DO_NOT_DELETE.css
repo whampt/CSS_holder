@@ -1,0 +1,42 @@
+
+@import url("https://use.typekit.net/uck1tah.css"); /* Adobe Font */
+
+.kaltura-player-container * {
+  font-family: "aktiv-grotesk", sans-serif !important; /* Use !important if needed to override */
+}
+
+/* Apply the aktiv-grotesk font globally to all elements inside the player */
+.kaltura-player-container * {
+  font-family: "aktiv-grotesk", sans-serif !important;
+}
+ 
+/* Base font override */
+.kaltura-player-container,
+.kaltura-player-container * {
+  font-family: "aktiv-grotesk", sans-serif !important;
+}
+ 
+/* Use Kaltura’s recommended selector structure, updated for v7 */
+ 
+/* Central big play button */
+.kaltura-player-container .k-big-play-button {
+  background-color: #800080 !important;
+  border-color: #800080 !important;
+}
+ 
+/* Play icon inside that button */
+.kaltura-player-container .k-big-play-button .k-icon-play {
+  color: #ffffff !important;
+}
+ 
+/* Small play/pause control in the bottom bar */
+.kaltura-player-container .k-control-button.k-play-button,
+.kaltura-player-container .k-control-button.k-play-button .k-icon-play {
+  color: #800080 !important;
+}
+ 
+/* Hover/focus state for large play button */
+.kaltura-player-container .k-big-play-button:hover,
+.kaltura-player-container .k-big-play-button:focus {
+  background-color: #9932CC !important; /* slightly lighter purple */
+}
