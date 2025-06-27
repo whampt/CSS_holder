@@ -1,10 +1,12 @@
+/*working codepen example https://codepen.io/mah5167/pen/NWRGzrX */
+
 .playkit-player-gui {
   font-family: "aktiv-grotesk", sans-serif !important;
 }
 .playkit-player .playkit-time-display {
   font-family: "aktiv-grotesk", sans-serif !important;
 }
-.playkit-icon.playkit-icon-play {
-  background-color: #1a5632 !important;
+.playkit-pre-playback-play-overlay .playkit-pre-playback-play-button{
+  background-color: rgba(26,86,50,.9);
 }
 
