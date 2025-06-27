@@ -1,3 +1,6 @@
 .playkit-player-gui {
   font-family: "aktiv-grotesk", sans-serif !important;
 }
+.playkit-player .playkit-time-display {
+  font-family: "aktiv-grotesk", sans-serif !important;
+}
