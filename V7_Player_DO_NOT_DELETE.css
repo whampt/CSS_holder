@@ -1,18 +1,4 @@
 @import url("https://use.typekit.net/uck1tah.css"); /* Adobe Font */
-
-[class^="icon-"], [class*=" icon-"] {
-    font-family: "aktiv-grotesk", sans-serif !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
-
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-}
     .playkit-time-display {
         font-family: "aktiv-grotesk", sans-serif !important;
 }
