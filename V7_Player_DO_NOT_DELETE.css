@@ -14,6 +14,6 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.playkit-time-display {
+.playkit-player .playkit-time-display {
   font-family: "aktiv-grotesk", sans-serif !important;
 }
