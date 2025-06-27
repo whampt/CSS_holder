@@ -4,3 +4,7 @@
 .playkit-player .playkit-time-display {
   font-family: "aktiv-grotesk", sans-serif !important;
 }
+.playkit-icon.playkit-icon-play {
+  background-color: #1a5632 !important;
+}
+
