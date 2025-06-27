@@ -13,3 +13,7 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+.playkit-time-display {
+  font-family: "aktiv-grotesk", sans-serif !important;
+}
