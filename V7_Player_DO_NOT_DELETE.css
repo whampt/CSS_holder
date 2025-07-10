@@ -6,7 +6,11 @@
 .playkit-player .playkit-time-display {
   font-family: "aktiv-grotesk", sans-serif !important;
 }
-.playkit-pre-playback-play-overlay .playkit-pre-playback-play-button{
+/* .playkit-pre-playback-play-overlay .playkit-pre-playback-play-button{
   background-color: rgba(26,86,50,.9);
-}
+} */
 
+
+
+.playkit-pre-playback-play-button {
+  background-color:blue;
